@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "dFdDbXMe5T2cDUByZNapR39ITDYpu9brrXfLhcpQ5Ng=",
+  "Source": "EventManagerFunctional",
+  "BasePath": "_content/EventManagerFunctional",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EventManagerFunctional\\wwwroot",
+      "Source": "EventManagerFunctional",
+      "ContentRoot": "C:\\Users\\Daniel Carbone\\Desktop\\ProjectsNET\\EventManagerFunctional (1)\\wwwroot\\",
+      "BasePath": "_content/EventManagerFunctional",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Daniel Carbone\\Desktop\\ProjectsNET\\EventManagerFunctional (1)\\wwwroot\\css\\site.css",
+      "SourceId": "EventManagerFunctional",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel Carbone\\Desktop\\ProjectsNET\\EventManagerFunctional (1)\\wwwroot\\",
+      "BasePath": "_content/EventManagerFunctional",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vfejsqcxcp",
+      "Integrity": "JexUm1sn4nr8WdiQWAJNtMGhLSTNS6No0jFczfP+lRk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\Daniel Carbone\\Desktop\\ProjectsNET\\EventManagerFunctional (1)\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JexUm1sn4nr8WdiQWAJNtMGhLSTNS6No0jFczfP+lRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JexUm1sn4nr8WdiQWAJNtMGhLSTNS6No0jFczfP+lRk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vfejsqcxcp.css",
+      "AssetFile": "C:\\Users\\Daniel Carbone\\Desktop\\ProjectsNET\\EventManagerFunctional (1)\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JexUm1sn4nr8WdiQWAJNtMGhLSTNS6No0jFczfP+lRk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:32:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vfejsqcxcp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JexUm1sn4nr8WdiQWAJNtMGhLSTNS6No0jFczfP+lRk="
+        }
+      ]
+    }
+  ]
+}
